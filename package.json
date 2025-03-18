@@ -9,10 +9,19 @@
     "dependencies": {
         "crm-project-node": "file:",
         "dotenv": "^16.4.7",
-        "express": "^4.21.2"
+        "express": "^4.21.2",
+        "morgan": "^1.10.0"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "type": "commonjs"
+    "type": "commonjs",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sneha-rachel-philip/crm-project-node.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sneha-rachel-philip/crm-project-node/issues"
+    },
+    "homepage": "https://github.com/sneha-rachel-philip/crm-project-node#readme"
 }

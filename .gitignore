@@ -1,14 +1,3 @@
-# Node.js dependencies
 node_modules/
-
-# Logs
-logs/
-*.log
-
-# Environment variables
 .env
-
-# Editor settings
-.vscode/
-.idea/
-.DS_Store
+package-lock.json
